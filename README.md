@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am a newbie in this field.
+I started my journey in AI & ML in September 2025 as a fresher at my college. Today, in my  second year, I am looking to improve and build myself.
 <!--
 **potato-queen/potato-queen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
